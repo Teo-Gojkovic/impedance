@@ -84,7 +84,7 @@ On va reprendre la formule de Pythagore : $c = \sqrt{a^2 + b^2}$ :
 
 $$a = Z_R \qquad b = Z_L \qquad  c = Z_T$$
 
-se qui nous donne : 
+ce qui nous donne : 
 
 $$Z_{T} =  \sqrt{(Z_R)^2 + (Z_L)^2}$$
 $$=  \sqrt{(R)^2 + (L\omega)^2}$$
