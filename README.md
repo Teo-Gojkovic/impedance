@@ -62,7 +62,7 @@ $$|Z_L| = [L\omega ; \frac{\pi}{2}]$$
 
 > rappel : $\omega = 2\pi * f$
 
-### Condensateur : $ Z_C $
+### Condensateur : $Z_C$
 
 Non complexe :
 $$Z_C = \frac{1}{\omega * c}$$
@@ -72,7 +72,7 @@ $$\mathbf{\underline{Z}}_C = -j\frac{1}{\omega * c}  = \frac{-j}{\omega * c}$$
 
 $$|Z_C| = [\frac{1}{C\omega} ; -\frac{\pi}{2}]$$
 
-### Impédence totale : $ Z_T $
+### Impédence totale : $Z_T$
 
 $$Z_T = Z_L + Z_R + Z_C$$
 
