@@ -104,3 +104,14 @@ $$Z_{T} =  \sqrt{(Z_R)^2 + (Z_L)^2}$$
 $$=  \sqrt{(R)^2 + (L\omega)^2}$$
 $$=  \sqrt{R^2 + (L *2\pi * f)^2}$$
 
+### Impédance R & C : $Z_T = Z_R + Z_C$
+
+$$|Z_{T}| =  \sqrt{(Z_R)^2 + (Z_C)^2}$$
+$$=  \sqrt{(R)^2 + (\frac{1}{\omega * c})^2}$$
+$$=  \sqrt{R^2 + (\frac{1}{2\pi * f * c})^2}$$
+
+### Impédance L & C : $Z_T = Z_L + Z_C$
+
+$$Z_T = Z_L + Z_C$$
+$$= \sqrt{(L * \omega)^2 + (\frac{1}{\omega * c})^2}$$
+$$= \sqrt{(L * 2\pi * f)^2 + (\frac{1}{2\pi * f * c})^2}$$
